@@ -1,0 +1,12 @@
+{
+  "name": "reg-exp-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "uuid": "^8.1.0"
+  }
+}
